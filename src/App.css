@@ -193,6 +193,14 @@ footer {
   padding: 1rem;
   border-radius: 8px;
   gap: 1rem;
+  position: relative;
+}
+
+.show-password {
+  position: absolute;
+  top: 63px;
+  right: 12%;
+  cursor: pointer;
 }
 
 .signup-link, .login-link {
